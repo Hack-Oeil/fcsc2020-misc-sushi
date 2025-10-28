@@ -6,7 +6,7 @@ ou utiliser le webssh : http://localhost
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [SuSHi](https://hackropole.fr/fr/challenges/misc/fcsc2020-misc-sushi/)
 
